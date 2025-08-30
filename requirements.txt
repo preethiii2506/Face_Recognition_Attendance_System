@@ -1,0 +1,10 @@
+opencv-python
+opencv-contrib-python
+face-recognition
+dlib
+imutils
+numpy
+pandas
+click
+Pillow
+
