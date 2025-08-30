@@ -96,4 +96,4 @@ python3 face.py
 ---
 
 ## 🔹 Author  
-Developed by [Your Name](https://github.com/YOUR-USERNAME) ✨  
+Developed by **Preethi** ✨  
